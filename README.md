@@ -1,4 +1,4 @@
 # RickAndMortyApp
 
 
-https://jespinosaweb.github.io/RickAndMortyApp/
+https://j93espinosa.github.io/RickAndMortyApp/
